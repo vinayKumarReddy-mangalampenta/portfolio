@@ -125,6 +125,9 @@ nav ul li {
 .bio h1 {
   margin-bottom: var(--bottom-margin);
 }
+.para-text{
+  text-align: center;
+}
 
 .bio p {
   line-height: var(--line-height);
